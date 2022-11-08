@@ -14,6 +14,8 @@ function App() {
 
       console.log(result.data)
      }
+
+     fetchItems()
   }, [])
 
   return (
